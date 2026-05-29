@@ -82,7 +82,7 @@ acceptance of the revised Terms.
 
 ## 10. Governing law
 
-These Terms are governed by the laws of the State of __________ and the United States, without
+These Terms are governed by the laws of the State of Virginia and the United States, without
 regard to conflict-of-law principles. Nothing in these Terms limits any non-waivable statutory
 rights you may have as a consumer, including the rights of users in the EU, the EEA, and the
 United Kingdom under applicable law.
