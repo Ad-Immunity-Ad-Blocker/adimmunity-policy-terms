@@ -1,7 +1,6 @@
-# privacy-policy-v1.20
 # AdImmunity — Privacy Policy
 
-**Last updated: 29 May 2026**
+**Last updated: 31 May 2026**
 
 *This policy will be hosted at a GitHub Pages URL once the repository's Pages site is configured. That URL will be linked from the Chrome Web Store listing and from within the extension.*
 
@@ -51,6 +50,7 @@ Creating an account is entirely optional and has no effect on the core blocking 
 If you choose to create an account, we collect:
 
 - **Email address** — used solely to authenticate you and allow you to log in. Your email is stored securely in Supabase Auth (see Section 7 on our processor and data location).
+- **Password** — authentication uses a password you choose. Your password is transmitted over HTTPS and stored only as a salted hash by our processor (Supabase); the extension never stores your raw password — only short-lived session tokens are kept in your browser's local storage.
 
 We do not collect your name, phone number, payment information, or any other personal details in connection with your account. Your account email is not used for marketing, is not shared with third parties for advertising, and is not combined with any browsing data.
 
