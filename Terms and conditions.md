@@ -1,92 +1,208 @@
-# AdImmunity — Terms & Conditions
+# AdImmunity Terms & Conditions
 
-**Last updated:** 31 May 2026
+**Last updated:** 28 June 2026
 
-Please read these Terms & Conditions ("Terms") carefully before installing or using the
-AdImmunity browser extension ("AdImmunity", "the extension", "we", "us"). By installing or
-using AdImmunity, you agree to these Terms. If you do not agree, do not install or use it.
+Please read these Terms & Conditions ("Terms") carefully before installing or using the AdImmunity browser extension ("AdImmunity", "the extension", "we", "us").
 
-## 1. The service
+By installing or using AdImmunity, you agree to these Terms. If you do not agree, do not install or use it.
 
-AdImmunity is a browser extension that blocks advertisements, pop-ups, banners, and trackers,
-and warns you before loading sites that appear on a known phishing or malware blocklist. It also
-offers optional tools ("Superpowers") such as the Element Zapper, Reader Mode, and automatic
-video-ad skipping. Core blocking works without any account.
+---
 
-## 2. No warranty
+# 1. The Service
 
-AdImmunity is provided **"as is" and "as available", without warranties of any kind**, whether
-express or implied, including but not limited to merchantability, fitness for a particular
-purpose, and non-infringement. Content blocking and page modification can occasionally interfere
-with how some websites display or function, and the phishing/malware blocklist may produce false
-positives or miss threats. **You use the extension at your own risk.**
+AdImmunity is a browser extension that blocks advertisements, pop-ups, banners, and trackers, and warns you before loading sites that appear on a known phishing or malware blocklist.
 
-## 3. Limitation of liability
+It also offers optional tools ("Superpowers") such as:
 
-To the maximum extent permitted by applicable law, AdImmunity and its maker shall not be liable
-for any indirect, incidental, special, consequential, or punitive damages, or any loss of data,
-revenue, or profits, arising out of or related to your use of (or inability to use) the
-extension — including, without limitation, any website breakage, missed content, or reliance on
-a security warning. Where liability cannot be excluded, it is limited to the greatest extent
-permitted by law.
+- Element Zapper
+- Anonymous (open the current page in a private Incognito window)
+- Automatic video-ad skipping
 
-## 4. Acceptable use
+Core blocking functionality works without any account.
 
-You agree not to misuse the extension, including: reverse-engineering it for malicious purposes,
-using it to violate the law, or interfering with its security features. AdImmunity is a tool for
-your own browsing; you are responsible for how you use it.
+---
 
-## 5. Third-party sites and services
+# 2. No Warranty
 
-AdImmunity operates on third-party websites you choose to visit. We do not control those sites
-and are not responsible for their content or practices. Blocking or skipping ads on a third-party
-service may be contrary to that service's own terms; you are responsible for your use of those
-services. The phishing/malware blocklist is derived from public threat-intelligence sources
-(e.g. URLhaus) and is provided for your safety without guarantee of completeness or accuracy.
+AdImmunity is provided **"as is" and "as available," without warranties of any kind**, whether express or implied, including but not limited to:
 
-## 6. Accounts (optional, where offered)
+- Merchantability
+- Fitness for a particular purpose
+- Non-infringement
 
-If and when AdImmunity offers an optional account, creating one is **entirely voluntary** and is
-not required for ad, tracker, or phishing protection. You are responsible for the email address
-you register and for maintaining access to it. You may delete your account at any time from
-within the extension. Account terms and our Privacy Policy apply to any account you create.
+Content blocking and page modification may occasionally interfere with how websites display or function.
 
-**Premium tier.** A Premium tier unlocks the optional "Superpowers": Element Zapper, Reader Mode,
-Auto-Skip Video Ads, and automatic cookie-banner dismissal. Core ad, tracker, and phishing
-protection remains free and requires no account.
+The phishing and malware blocklist may also:
 
-**Launch promotion — 1-year free Premium license.** The first one thousand (1,000) accounts
-created receive one (1) year of Premium at no charge. This is a free promotional license: no
-payment method is required or collected, it does not auto-renew, and it does not convert to a
-paid subscription automatically. At the end of the promotional year the account reverts to the
-free plan and the Superpowers features lock until a paid plan is offered and purchased.
+- Produce false positives
+- Miss certain threats
 
-**Future availability.** Premium availability beyond the promotion is not guaranteed and may
-later be offered as a paid plan under separate terms.
+**You use the extension entirely at your own risk.**
 
-## 7. Privacy
+---
 
-Your use of AdImmunity is also governed by our Privacy Policy, which describes what little data
-the extension handles. Blocking statistics and settings stay on your device.
+# 3. Limitation of Liability
 
-## 8. Eligibility
+To the maximum extent permitted by applicable law, AdImmunity and its maker shall not be liable for:
 
-You must be at least **16 years old** (or the minimum age of digital consent in your country, if
-higher) to create an optional account.
+- Indirect damages
+- Incidental damages
+- Special damages
+- Consequential damages
+- Punitive damages
+- Loss of data
+- Loss of revenue
+- Loss of profits
 
-## 9. Changes to these Terms
+arising out of or related to your use of, or inability to use, the extension.
 
-We may update these Terms from time to time. Material changes will be reflected by the "Last
-updated" date above. Your continued use of the extension after changes take effect constitutes
-acceptance of the revised Terms.
+This includes, without limitation:
 
-## 10. Governing law
+- Website breakage
+- Missed content
+- Reliance on security warnings
 
-These Terms are governed by the laws of the State of Virginia and the United States, without
-regard to conflict-of-law principles. Nothing in these Terms limits any non-waivable statutory
-rights you may have as a consumer, including the rights of users in the EU, the EEA, and the
-United Kingdom under applicable law.
+Where liability cannot legally be excluded, it is limited to the greatest extent permitted by law.
 
-## 11. Contact
+---
 
-Questions about these Terms? Contact: **omiteyt@gmail.com**
+# 4. Acceptable Use
+
+You agree not to misuse the extension, including:
+
+- Reverse-engineering it for malicious purposes
+- Using it to violate applicable laws
+- Interfering with security features
+
+AdImmunity is intended solely as a tool for your own browsing activities.
+
+You are responsible for how you use it.
+
+---
+
+# 5. Third-Party Sites and Services
+
+AdImmunity operates on third-party websites that you choose to visit.
+
+We do not control those websites and are not responsible for:
+
+- Their content
+- Their practices
+- Their availability
+
+Blocking or skipping advertisements on a third-party service may conflict with that service's own terms.
+
+You are solely responsible for your use of those services.
+
+The phishing and malware blocklist is derived from public threat-intelligence sources (for example, URLhaus) and is provided without any guarantee of completeness or accuracy.
+
+---
+
+# 6. Accounts (Optional)
+
+If and when AdImmunity offers optional accounts, creating one is **entirely voluntary**.
+
+An account is not required for:
+
+- Ad blocking
+- Tracker blocking
+- Phishing protection
+
+You are responsible for:
+
+- The email address you register
+- Maintaining access to that email address
+
+You may delete your account at any time from within the extension.
+
+Account usage is also governed by the Privacy Policy.
+
+## Premium Tier
+
+A Premium tier unlocks optional Superpowers, including:
+
+- Element Zapper
+- Anonymous (Incognito)
+- Auto-Skip Video Ads
+- Automatic cookie-banner dismissal
+
+Core ad, tracker, and phishing protection remains free and does not require an account.
+
+## Launch Promotion — One-Year Free Premium License
+
+During the current launch period:
+
+- Every new account receives one (1) year of Premium access at no charge.
+- No payment method is required.
+- No payment information is collected.
+- The promotion does not auto-renew.
+- It does not automatically convert into a paid subscription.
+
+After the promotional period ends:
+
+- The account returns to the free plan.
+- Premium Superpowers become unavailable unless a paid plan is later offered and purchased.
+
+We may modify or end this promotion at any time.
+
+Accounts created before any such change will retain the one-year Premium period granted at signup.
+
+## Future Availability
+
+Premium availability beyond the promotional period is not guaranteed and may later be offered under separate paid terms.
+
+---
+
+# 7. Privacy
+
+Your use of AdImmunity is also governed by the Privacy Policy.
+
+The Privacy Policy explains:
+
+- What data is handled by the extension
+- How optional account data is processed
+- How privacy protections are implemented
+
+Blocking statistics and settings remain on your device.
+
+---
+
+# 8. Eligibility
+
+You must be at least **16 years old** (or the minimum age of digital consent in your jurisdiction, if higher) to create an optional account.
+
+---
+
+# 9. Changes to These Terms
+
+We may update these Terms from time to time.
+
+Material changes will be reflected by updating the **Last updated** date at the top of this document.
+
+Your continued use of AdImmunity after updated Terms take effect constitutes acceptance of the revised Terms.
+
+---
+
+# 10. Governing Law
+
+These Terms are governed by the laws of the **Commonwealth of Virginia** and the **United States**, without regard to conflict-of-law principles.
+
+Nothing in these Terms limits any non-waivable statutory rights that consumers may have under applicable law, including rights available to users in:
+
+- The European Union (EU)
+- The European Economic Area (EEA)
+- The United Kingdom
+
+---
+
+# 11. Contact
+
+Questions about these Terms?
+
+**Email:** omiteyt@gmail.com
+
+---
+
+*AdImmunity — Privacy-first ad & tracker blocking.*
+
+**Contact:** omiteyt@gmail.com
