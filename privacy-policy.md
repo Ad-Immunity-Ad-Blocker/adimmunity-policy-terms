@@ -2,6 +2,8 @@
 
 **Last updated: 23 November 2026**
 
+This policy is published at [addefense.me/privacy](https://addefense.me/privacy/). The [Terms & Conditions](https://addefense.me/terms/) are on the same site.
+
 ---
 
 ## 1. Who We Are / Contact

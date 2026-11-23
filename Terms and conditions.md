@@ -2,6 +2,8 @@
 
 **Last updated:** 23 November 2026
 
+These Terms are published at [addefense.me/terms](https://addefense.me/terms/).
+
 Please read these Terms & Conditions ("Terms") carefully before installing or using the
 Ad Defense browser extension, formerly called AdImmunity ("Ad Defense", "the extension", "we", "us"). By installing or
 using Ad Defense, you agree to these Terms. If you do not agree, do not install or use it.
@@ -19,7 +21,7 @@ account or sign-in.**
 To do this, Ad Defense modifies the pages you visit — hiding ad elements, blocking requests to
 advertising hosts, stripping campaign tags from links, skipping video ads, and blocking pop-ups from
 advertising networks. Section 5 of the
-[Privacy Policy](https://github.com/Ad-Immunity-Ad-Blocker/adimmunity-policy-terms/blob/main/privacy-policy.md)
+[Privacy Policy](https://addefense.me/privacy/)
 lists every page modification in full, and Section 6 explains every permission the extension
 requests.
 
